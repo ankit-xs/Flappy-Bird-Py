@@ -1,4 +1,3 @@
-#https://www.youtube.com/watch?v=UZg49z76cLw&t=3706s&ab_channel=ClearCode
 import pygame, sys, random
 
 def draw_floor():
