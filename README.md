@@ -1,2 +1,2 @@
 # Flappy-Bird-Py
-Flappy Bird Clone made in python
+Flappy Bird Clone made in python.
